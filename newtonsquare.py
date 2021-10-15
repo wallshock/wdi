@@ -9,7 +9,7 @@ def pierw(liczba,precyzja):
             a = (a+b)/2
             b = pole/a
         #end
-        return a
+    return a
 #end
 
 num = 4
